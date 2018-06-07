@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 'The Quantum Internet'
-published by: Omer
-gist: Quantum Internet is here, and it cannot be decrypted
+[comment]: <> (layout: default.)
+[comment]: <> (published by: Omer.)  
+#### Title: 'The Quantum Internet'. 
+#### Gist: Quantum Internet is here, and it cannot be decrypted. 
 ---
 
 #### _"It is impossible to measure a property of a system without changing it."_

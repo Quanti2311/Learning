@@ -1,6 +1,8 @@
 ---
-layout: post
-title: 'Soft Intro'
+[comment]: <> (layout: default.)
+[comment]: <> (published by: Omer.)  
+#### Title: Soft Intro.  
+#### Gist: What is Quantum Computing in layman's terms.   
 ---
 
 Here you will find great materials re quantum computing (QC) and other quantum subjects (quantum internet, encryption). 
