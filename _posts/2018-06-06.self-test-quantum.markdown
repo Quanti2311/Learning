@@ -13,8 +13,12 @@
 
 ##### Give an example of a quantum gate and explain how it works:
 
-##### What quantum computers are good for? provide two classic examples.
+##### What quantum computers are good for? provide two classic examples.   
+Discrete optimization problems - 
 
+Shor's Alg:
+
+Grover's Alg:
 
 #### More tiny questions - know the details:
 
