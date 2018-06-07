@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 'More Advanced Intro'
+[comment]: <> (layout: default.)  
+[comment]: <> (published by: Omer.)   
+title: 'More Advanced Intro'   
 Gist: Here you can learn about the technical fundamentals of QC.
-By: Omer
 ---
 
 Hiya,   
