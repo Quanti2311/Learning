@@ -1,6 +1,5 @@
-
 ---
-[comment]: <> (layout: default.)
+[comment]: <> (layout: default.)  
 [comment]: <> (published by: Omer.)  
 #### Title: "Test of knowledge and understanding".  
 #### Gist: Do you really know about QC?
