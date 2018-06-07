@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'The Quantum Internet'
 published by: Omer
 gist: Quantum Internet is here, and it cannot be decrypted
