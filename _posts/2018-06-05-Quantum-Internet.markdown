@@ -1,4 +1,5 @@
 ---
+layout: default
 title: 'The Quantum Internet'
 published by: Omer
 gist: Quantum Internet is here, and it cannot be decrypted
@@ -20,7 +21,7 @@ _"Quantum cryptography suddenly became more relevant in 1994, when mathematician
 _"Their idea involved a sender (conventionally known as Alice in cryptography) sending a long string of 1s and 0s to a recipient (call him Bob) that is encoded in photons in such a way that if an eavesdropper (Eve, naturally) conducted any measurements on it, Alice and Bob would know (because measuring a quantum particle changes its properties). They would then throw out any affected 1s and 0s, and be left with an ideal cryptographic key – a long random number they both know but no one else does."_
 
 
-![The Quantum Internet]({{'/assets/qunatum_internet.jpg'|absolute_url}})
+![The Quantum Internet](qunatum_internet.jpg)
 
 
 **Leaders and Leads:**
