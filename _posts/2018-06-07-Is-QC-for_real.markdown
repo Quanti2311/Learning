@@ -4,7 +4,7 @@
 #### Title: Is Quantum Computing for Real?
 #### Gist: D-Wave engineer explains Quantum Annealing - notice, the title is misleading - it is only focused on QA.
 ---
-!(the article)[Is QC for real - 20170711_Tichy_r1.docx.pdf]
+[the article](Is QC for real - 20170711_Tichy_r1.docx.pdf)
 
 **_Intro_**   
 D-Wave is the global leader in Quantum Annealing (henceforth QA). Their Quantum Processing Unit (QPU) is designed to solve a group of problems known as Adiabatic Optimization Problems (basically, they are discrete problems with multiple solutions and we are trying to find the best solution given the constraints.)
