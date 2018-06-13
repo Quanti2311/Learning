@@ -1,0 +1,8 @@
+chainmap==1.0.2
+combomethod==1.0.12
+Cython==0.28.3
+nulltype==2.3.1
+numpy==1.14.4
+qutip==4.2.0
+scipy==1.1.0
+six==1.11.0
